@@ -1,0 +1,95 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+    width: 90vw;
+    height: 100vh;}
+
+    #navbar{
+        width: 100%;
+        height: max-content;
+        background-color: #ffffff;
+        position: fixed;
+        padding: 1rem;
+        display: flex;
+        gap: 800px;
+        box-shadow: 10px 6px 5px rgba(0, 0, 0, 0.081);
+        top: auto;
+        right: auto;
+        top: 0%;
+    }
+
+    body{
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        height: 100%;
+    }
+
+    #logo-navbar{
+        height: 50px;
+    }
+    
+    img{
+        height: 40px;
+    }
+    
+    #meno{
+        display: flex;
+        gap: 70px;
+        font-family: "Roboto";
+        font-size: 0,5rem;
+        color: #3D9DB3;
+    }
+    
+    #começar{
+        width: 100px;
+        height: 50px;
+        border-radius: 10px;
+        background-color: #3D9DB3;
+        border: none;
+        color: #ffffff;
+        font-family: "Roboto";
+        cursor: pointer;
+    }
+    
+    #button-sobre{
+        color: #3D9DB3;
+    }
+    
+    #button-inicio{
+       color: #3D9DB3;
+    }
+
+
+    #sobre{
+        width: 97.2%;
+        height: 150px;
+        background-color: #b2d1d8;
+        position: absolute;
+        padding: 20px;
+        display: flex;
+        top: auto;
+        right: auto;
+        bottom: 0;
+        gap: 140px;   
+    
+    }
+    
+    
+    #logo-navbar1{
+       width: 100%;
+       
+      
+    }
+    
+    #lista{
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    li{
+    list-style: none;
+    padding: 5px;
+    }
+    
+    #bold{
+    font-weight: bold;
+    }

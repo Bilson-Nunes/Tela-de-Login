@@ -1,0 +1,95 @@
+#fundo{
+    height: 480px;
+    width: 500px;
+    border-radius: 2px;
+    border: 2px solid #3D9DB3;
+    background-color: #fbfbfb;
+}
+
+#login{
+    font-size: 250%;
+    text-align: center;
+    color: #3D9DB3;
+    font-family: "Roboto", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+hr{
+    width: 430px;
+    color: #3D9DB3;
+    border-radius: 1.5px;
+    border: 1.5px solid #3D9DB3;
+}
+
+#inputs{
+    color: #3D9DB3;
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 30.5px;
+    font-size: 0.8rem;
+    
+}
+
+#input{
+    width: 429px;
+    height: 28px;
+    border-radius: 3px;
+    border: 2px solid #b7b7b7;
+    background-color: #ffffff;
+    outline-color: #3D9DB3;
+}
+
+
+
+#button{
+    width: 432px;
+    height: 29px;
+    background-color: #3D9DB3;
+    border-radius: 3px;
+    color: #ffffff;
+    font-family: "Roboto", serif;
+    font-weight: 100px;
+    font-style: normal;
+    border: 2px solid #3D9DB3;
+    cursor: pointer;
+
+}
+
+#final{
+    background-color: #3d9db396;
+    height: 76px;
+    border-radius: 2px;
+
+}
+
+#ainda{
+    padding: 0.9rem;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 70%;
+    color: #00000083;
+}
+#criar-conta{
+    padding: 1px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 70%;
+    color: #00000081; 
+    text-decoration: none;
+}
+#tudo{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 1rem;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+}
